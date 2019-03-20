@@ -1,2 +1,2 @@
-# ChasseMonstre
-projet DUT Info S2
+# Chasse au Monstres
+## Projet de S2
